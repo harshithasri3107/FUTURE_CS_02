@@ -62,4 +62,14 @@ Each analyzed email sample is classified as high-risk phishing:
 - Attempts to steal credentials or deliver malware
 - Should be deleted and reported immediately
 
-## Repository Structure
+
+## Awareness and Prevention Guidelines
+- Verify the sender's domain before responding
+- Hover over links to check their destination
+- Do not open unexpected attachments
+- Be cautious of urgent or threatening messages
+- Use strong passwords and enable two-factor authentication
+- Report suspicious emails to the IT or security team
+
+## Conclusion
+This project demonstrates how phishing attacks use spoofing, urgency, and misleading content to target users. The report provides technical analysis and user-friendly explanations to strengthen organizational awareness and help prevent phishing attacks.
